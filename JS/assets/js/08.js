@@ -79,7 +79,7 @@ Je dois saisir mon email et mon mot de passe afin d'être authentifié sur le si
 En cas d'échec une alert m'informe du problème.
 Si tous se passe bien, un message de bienvenue m'accueille.
 -------------------------------- */
-// // -- BASE DE DONNEES
+ // -- BASE DE DONNEES
 var email, mdp;
 
 email = "wf3@hl-media.fr";
